@@ -1,0 +1,26 @@
+Negative Test cases - Wrist Watch
+**********************************************************************************
+1) In the case of an analog watch, check the correctness time displayed by the second, minute, and hour hand 
+    of the watch.
+2) In the case of a digital watch, check the digital display for hours, minutes, and seconds is correctly displayed.
+3) Check if the watch is waterproof or not.
+4) Verify that the numbers in the dial are clearly visible or not.
+5) Check if the watch is having a date and day display or not.
+6) Verify that clock’s time can be corrected using the key in case of an analog clock and buttons in case of a 
+     digital clock.
+7) Check if the second hand of the watch makes ticking sound or not.
+8) Verify if the brand of the watch and check if its visible in the dial.
+9) Check if the clock is having stopwatch, timers, and alarm functionality or not.
+10) Verify if the watch comes with any guarantee or warranty.
+11) Verify if the dial has glass covering or plastic, check if the material is breakable or not.
+12) Verify if the dial’s glass/plastic is resistant to minor scratches or not.
+13) Varify belt or chain used is comfortable or not and it’s length
+14) Check if the watch properly fits on the wrist or not.
+15) Check is all accessories of the Watch are fitted correctly.
+16) Check if the Watch is working without power or a power cell.
+17) The check can a user increase and decrease the size of the watch strap or chain.
+18) Check if the watch is working or not when the second needle is not working.
+19) Check if the GPS of the watch is working without a sim and internet.
+20) To verify that Watch is not making any sound when it’s in the movement.
+21) To verify that the Watch is working at different climate environmental conditions.
+
