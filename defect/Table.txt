@@ -1,0 +1,14 @@
+Negative Test Cases - Table
+*************************************************************
+1)  Check what is the maximum amount of load the table is handling.
+2)  Check if all the legs of the table are touched properly or not. Or there is some gap is coming between the ground and legs.
+3)  Check if the table legs have any options like normal legs or scrolling wheels.
+4)  Check if the table has supporting handles or not.
+5)  Check if the table is waterproof or if is there any effect of water over the table.
+6)  Check if the table has any racks on it not.
+7)  To verify how the Table is working at different climate environmental conditions.
+8)  To verify that the Table Board is fitted properly or not.
+9)  To verify that the Table’s material should not be easily damaged.
+10) To verify that the Table should enough space to put the goods on it. 
+11) To verify that table should have a functional design that enables a single person or multiple persons to sit comfortably around it.
+12) To verify that a user can place full weight on the upright portion of the Table.

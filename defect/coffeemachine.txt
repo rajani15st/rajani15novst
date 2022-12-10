@@ -1,0 +1,29 @@
+Negative test cases for coffee vending machine -
+*************************************************************************************************
+1) To verify whether user is able to get coffee even after making cancel
+2) To verify whether user is able to get coffee even after there is no powder in machine
+3) To verify whether user is able to get coffee even after not making right choice
+4) To verify whether user is able to get coffee even there is no water in machine
+5) To verify whether user is unable to get coffee even after making a right choice
+6) Check that whether the machine works when empty. If yes report an error.
+7) Check that whether the machine works, if user enters a higher value coin.
+8) Check that whether the machine works, if user enters a lower value coin.
+9) Check that whether the machine works, if user enters a foreign currency coin.
+10) Check that whether the machine works, if user enters a fake coin.
+11) Check that whether the machine works, if user presses both half cup button and full cup button at once.
+12) Check that whether the machine works, if user places the machine upside down.
+13) Check that whether the machine works, if user place it horizontally.
+14) Check that whether the machine stops working, if user stops working if user tries to open the cover while 
+      pouring coffee.
+15) Check that whether the machine works, if user pulls out the cord after inserting the command, and then plug it 
+      again.
+16) Check that whether a user can open the compartment with a fake key.
+17) Check that whether the machine works with the competitor's ingredient.
+18) Check that whether the machine is FIS and ISI approved.
+19) Check how the coffee vending machine acts when two/multiple buttons are pressed simultaneously.
+20) Check how the coffee machine functions when the ingredient container’s capacity is exceeded.
+21) Verify how the coffee machine functions when the power gets cut off.
+22) Check how the machine acts when the user inserts ingredients from another brand different from the coffee 
+      machine’s brand.
+23) Check whether the machine can give an electric shock to the user if touched with bare hands and feet on the
+       floor.

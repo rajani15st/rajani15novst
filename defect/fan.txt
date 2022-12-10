@@ -1,0 +1,31 @@
+Negative Test cases - fan
+****************************************************
+1) Check that all parts of the Fan is fitting properly or not.
+2) Check that the Fan blade is fitted properly or not.
+3) To verify the logo of the company is as per the design specification or not.
+4) To verify that enough distance present between fan blades and ceiling
+5) To verify that the blades of the fan can be bend or not.
+6) To verify that the fan is running with minimum noise and vibrations or not.
+7) To check that the fan is not wobbling when it’s in the movement.
+8) To verify that the Fan is usable for similar Blades of different brands
+9) To verify that the Fan can be fit properly with celling.
+10) Check that the speed varies when the regulator adjusted.
+11) To check that the Speed of the fan is controlled by the regulator or not.
+12) To verify that the Fan should always work in a clockwise direction.
+13) To verify that the fan works normally-throws wind in the right direction. 
+14) To verify that the fan is stopped only if the electric switch OFF.
+15) To verify that the fan is started only if the electric switch ON.
+16) To verify that the time required to reach its maximum speed when the fan is switched ON.
+17) To verify that the voltage power requirement of the fan as per mentioned in the requirement or not.
+18) To verify that when in motion, the fan should not wobble.
+19) To verify that the Fan body should not be too thick or too thin.
+20) Check that the fan’s internal parts of the body should be available for a lifetime.
+21) To verify that the fan should be worked properly under-voltage fluctuation conditions.
+22)To verify that the fan’s condition when continuously switched on for a very large duration.
+23) To verify that the fan’s motor and electrical parts if any under unexpected outage of electricity 
+24) To check that the material used for fan blades and check if it’s not getting bend when it is in motion.
+25) To check that the Fan is working at different climate environmental conditions.
+26) To verify that fan is working without a capacitor or not.
+27) To check a sensor of fan is working or not in the case of sensor based fan.
+28) If a fan does not work properly it might affect in cooling of airconditionr.
+29) If a fan in chimani does not work properly it may not exhauste smoke properly.

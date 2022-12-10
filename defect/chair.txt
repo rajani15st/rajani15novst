@@ -1,0 +1,21 @@
+Negative test cases of chair -
+***************************************************************************************************
+
+1) Verify if wheels are needed specified in chair.
+2) Verify if the wheels are turning 360 degrees or not.
+3) Check if the wheels are oiled well or not.
+4) Check if there is any pointy edge on the chair or not.
+5) Verify that the chair is stable enough to take an average human load
+6) Check the material used in making the chair-wood, plastic etc
+7) Check if the chair’s leg are level to the floor
+8) Check the usability of the chair as an office chair, normal household chair
+9) Check if there is back support in the chair
+10) Check if there is support for hands in the chair
+11) Verify if the chair’s material is brittle or not
+12) Check if cushion is provided with chair or not
+13) Check the condition when washed with water or effect of water on chair
+14) Check the chair under the most harmful environmental conditions. 
+15) Check that the logo of the company is properly printed or not.
+16)  To verify that the chair’s material should not be easily damaged.
+17)  To verify that the chair should be enough space to be seat.
+18) To verify the time for how long the user can able to sit on it with the single sitting.

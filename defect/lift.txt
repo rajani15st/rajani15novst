@@ -1,0 +1,25 @@
+Negative Test cases - Lift
+********************************************************************************
+1) Cross the limit of lift and check functionality.
+2)  Check (press close door button) the door automation when some is standing in middle.
+3)  Check the total weight exceeds the total weight it specifies, Check whether the error signals or sent properly
+     or not
+4) Check for whether the lifts stops in correct floor when pressed the perticular number
+5) Check whether (if the lift doors are automatic) the doors are opened properly only when lift is not running.
+4) Check for the indicator Not representing the Another floor number When We r in Specified Floor.
+5) Check the behaviour of the lift when pressed some irregular ( like pressing open the door) button when lift
+     is moving
+6)  Check for Whether it is not Behaving Normally in Emergancy time.
+7) Check for whether the lift will not be stopped in Expected Floor when pressed the Wrong number.
+8) Verify the buttons in the lift to close and open the door and numbers as per the number of floors
+9) Verify that in case of power failure, lift doesn’t free-fall and get halted in the particular floor
+10) Verify lifts working in case button to open the door is pressed before reaching the destination floor
+11) Verify that in case door is about to close and an object is placed between the doors if the doors sense the
+      object and again open or not
+12) Verify that at no point lifts door should open while in motion
+13) Verify that in case of power loss, there should be a backup mechanism to safely get into a floor or a backup
+      power supply
+14) Verify that in case multiple floor number button is clicked, lift should stop at each floor
+15) Verify that in case of capacity limit is reached users are prompted with warning alert- audio/visual
+16) Verify that inside lift user are prompted with current floor and direction information the lift is
+      moving towards- audio/visual prompt

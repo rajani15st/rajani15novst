@@ -1,0 +1,17 @@
+Negative Test Cases - Door
+******************************************************************************
+1) Verify that we are able to lock and unlock the door
+2) Verify if someone knocking the door we are able to listen or not
+3) Verify if the door is sliding door or rotating door
+4) Check the position, quality and strength of hinges
+5) Check the number of locks in the door interior side or exterior side
+6) Verify if the door is having peek-hole or not
+7) Verify if the door is having stopper or not
+8) Verify if the door closes automatically or not – spring mechanism
+9) Verify if the door makes noise when opened or closed
+10) Check the door condition when used extensively with water
+11) Check the door condition in different climatic conditions- temperature, humidity etc
+12) Check the amount of force- pull or push required to open or close the door
+13) Check the door condition and different climates like summer winter rain etc
+14) Check how much amount of force is required to open or close the door
+15) Check if the door is built with glass then it is a transparent or non-transparent door
